@@ -1,0 +1,29 @@
+.list-card {
+    margin: 0 auto 10px;
+    display: inline-block;
+    padding: 0;
+    list-style: none;
+}
+
+.card {
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: 2px solid #960c0c;
+}
+
+.card_done {
+    border-color: green;
+}
+
+.card__text {
+    margin-top: 0;
+}
+
+.card-input {
+    display: block;
+    margin-bottom: 10%;
+    width: 100%;
+}
